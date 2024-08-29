@@ -1,0 +1,92 @@
+@font-face {
+  font-family: Gg Sans-Bold;
+  src: url("/Users/aarontapley/Desktop/Aaron/Unit 3/Module 3/Copycats/gg-sans-2/gg_sans_Bold.ttf");
+}
+@font-face {
+  font-family: Gg Sans-Semibold;
+  src: url("/Users/aarontapley/Desktop/Aaron/Unit 3/Module 3/Copycats/gg-sans-2/gg_sans_Semibold.ttf");
+}
+@font-face {
+  font-family: Gg Sans-Regular;
+  src: url("/Users/aarontapley/Desktop/Aaron/Unit 3/Module 3/Copycats/gg-sans-2/gg_sans_Regular.ttf");
+}
+.all {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-image: url("discord-background.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.table {
+  line-height: 1;
+  font-family: Gg Sans-Bold;
+  height: 645px;
+  width: 470px;
+  padding: 32px;
+  border-radius: 5px;
+  background-color: #313338;
+}
+
+.head {
+  text-align: center;
+  color: #f2f3f5;
+}
+.text {
+  font-size: 9pt;
+  color: #b5bac1;
+}
+.input {
+  height: 20px;
+  width: 415px;
+  padding: 10px;
+  border-radius: 3px;
+  margin-top: 7px;
+  margin-bottom: 15px;
+  color: #dbdee1;
+  background-color: #1e1f22;
+  outline: none;
+  border: none;
+  font-size: 16px;
+  font-family: Gg Sans-Regular;
+}
+.button {
+  height: 45px;
+  width: 430px;
+  padding: 2px 16px;
+  margin-top: 15px;
+  border-radius: 3px;
+  color: #ffffff;
+  background-color: #5865f2;
+  border: none;
+}
+.date {
+  height: 38px;
+  width: 136px;
+  padding: 10px;
+  margin-right: 7px;
+  border-radius: 3px;
+  font-family: Gg Sans-Regular;
+  color: #949ba4;
+  font-size: 16px;
+  background-color: #1e1f22;
+  border: none;
+}
+.agreement {
+  font-family: Gg Sans-Regular;
+  font-size: smaller;
+  color: #949ba4;
+}
+.account {
+  color: #0e94d9;
+  font-family: Gg Sans-Regular;
+  font-size: medium;
+  text-decoration: none;
+}
+.t_p {
+  color: #0c95dd;
+  text-decoration: none;
+}
