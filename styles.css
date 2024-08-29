@@ -1,14 +1,14 @@
 @font-face {
   font-family: Gg Sans-Bold;
-  src: url("gg_sans_Bold.ttf");
+  src: url("/gg_sans_Bold.ttf");
 }
 @font-face {
   font-family: Gg Sans-Semibold;
-  src: url("gg_sans_Semibold.ttf");
+  src: url("/gg_sans_Semibold.ttf");
 }
 @font-face {
   font-family: Gg Sans-Regular;
-  src: url("gg_sans_Regular.ttf");
+  src: url("/gg_sans_Regular.ttf");
 }
 .all {
   display: flex;
