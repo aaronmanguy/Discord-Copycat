@@ -90,3 +90,9 @@
   color: #0c95dd;
   text-decoration: none;
 }
+.corner {
+  position: absolute;
+  margin-right: 85%;
+  margin-bottom: 40%;
+}
+
